@@ -1,14 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+import imagen from './assets/img/imagen.png';
 
-function App() {
+const App = _ =>{
+
   return (
-    <div className="container">
-   <h1 className="title">
-      Servicios Gayosso <span aria-label="emoji" role="img">⚰️</span>
-   </h1>
-   <input type="text" className="new-task"/>
-</div>
-  );
-}
-export default App
+    <div >
+        <img src={imagen} />
+             
+    </div>
+    
+  )
+
+};
+
+export default App;
