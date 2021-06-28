@@ -1,1 +1,1 @@
-Hola Maestra, estos son los avances en el proyecto de Blanca, muchas gracias
+Hola Maestra, le envío el código de la actividad integradora, muchas gracias
